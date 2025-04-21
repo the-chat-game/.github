@@ -1,12 +1,21 @@
-## Hi there 👋
+# The Chat Game
+## About
 
-<!--
+The Chat Game is a modern gaming platform that transforms regular chat interactions into exciting gameplay experiences. Our mission is to bring people together through interactive conversations.
 
-**Here are some ideas to get you started:**
+## Our Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Main Projects
+- [The Chat Game](https://github.com/the-chat-game/the-chat-game) - Our chat-based gaming platform
+- [The Chat Game API](https://github.com/the-chat-game/api) - Backend service for The Chat Game
+- [The Chat Game Mobile](https://github.com/the-chat-game/app) - Mobile application for iOS and Android
+
+### Tools and Libraries
+- [The Chat Game Internal](https://github.com/the-chat-game/internal) - Shared libraries and utilities
+
+## Technology Stack
+
+We use modern technologies across our projects:
+- **Backend**: .NET Core
+- **Mobile**: React Native, Expo, TypeScript
+- **Database**: PostgreSQL Server
